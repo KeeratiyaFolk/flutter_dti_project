@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-## Welcome and Login complete
+## complete
 
 This project is a starting point for a Flutter application.
 
