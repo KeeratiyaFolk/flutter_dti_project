@@ -1,8 +1,8 @@
-# flutter_dti_project
+# Flutter_DTI_Project
 
 A new Flutter project.
 
-## Getting Started
+## Welcome and Login complete
 
 This project is a starting point for a Flutter application.
 
